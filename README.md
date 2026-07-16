@@ -2,7 +2,7 @@
 
 ## Aspiring Software Developer
 
-🎓 BTEC Level 3 Extended Diploma in Software Development (D*D*D*)
+🎓 BTEC Level 3 Extended Diploma in Software Development (D\*D\*D\*)
 
 📍 London, United Kingdom
 
